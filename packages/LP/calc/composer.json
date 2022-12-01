@@ -1,0 +1,15 @@
+{
+    "name": "lp/calc",
+    "description": "Different calculation function",
+    "authors": [
+    {
+      "name": "Younus Foysal",
+      "email": "younus.faysal@gmail.com"
+    }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
